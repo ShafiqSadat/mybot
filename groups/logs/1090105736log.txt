@@ -1,0 +1,30 @@
+[ Sat Oct  8 03:59:57 2016 ]=>  🔙🔛 🔜 [113566842] added SuperGroup
+ 
+[ Sat Oct  8 04:00:50 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 
+[ Sat Oct  8 04:01:44 2016 ]=>  🔙🔛 🔜 [113566842] renamed SuperGroup to: A F R B O T S
+ 
+[ Sat Oct  8 04:01:58 2016 ]=>  🔙🔛 🔜 [113566842] locked link posting 
+ 
+[ Sat Oct  8 04:02:17 2016 ]=>  🔙🔛 🔜 [113566842] deleted a message by reply
+ 
+[ Sat Oct  8 12:00:17 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup bots list
+ 
+[ Sat Oct  8 12:00:29 2016 ]=>  🔙🔛 🔜 [113566842] requested group modlist
+ 
+[ Sat Oct  8 12:01:16 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup Admins list
+ 
+[ Sat Oct  8 15:28:49 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup ID
+ 
+[ Sat Oct  8 17:21:21 2016 ]=>  ➡️..√ ℳ๏̯͡๏みάრσძ √..⬅️ [281710820] requested SuperGroup ID
+ 
+[ Sat Oct  8 17:21:32 2016 ]=>  ➡️..√ ℳ๏̯͡๏みάრσძ √..⬅️ [281710820] requested SuperGroup ID
+ 
+[ Sat Oct  8 17:29:30 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 
+[ Sat Oct  8 17:30:04 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 
+[ Sat Oct  8 17:30:16 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 
+[ Sat Oct  8 17:32:04 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 

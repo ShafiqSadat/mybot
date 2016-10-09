@@ -1,0 +1,60 @@
+[ Sat Oct  8 18:02:48 2016 ]=>  🔙🔛 🔜 [113566842] added SuperGroup
+ 
+[ Sat Oct  8 19:35:54 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup info
+ 
+[ Sat Oct  8 19:36:08 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup bots list
+ 
+[ Sat Oct  8 19:36:26 2016 ]=>  🔙🔛 🔜 [113566842] requested Kicked users list
+ 
+[ Sat Oct  8 19:36:41 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup users list
+ 
+[ Sat Oct  8 19:43:32 2016 ]=>  🔙🔛 🔜 [113566842] used /owner
+ 
+[ Sat Oct  8 19:50:28 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup ID
+ 
+[ Sat Oct  8 19:52:39 2016 ]=>  🔙🔛_🔜 [113566842] requested group stats 
+ 
+[ Sat Oct  8 20:00:59 2016 ]=>  لبیکیازینب(س) [145820407] banned user is talking !
+ 
+[ Sat Oct  8 20:01:05 2016 ]=>  لبیکیازینب(س) [145820407] banned user is talking !
+ 
+[ Sat Oct  8 20:01:08 2016 ]=>  لبیکیازینب(س) [145820407] banned user is talking !
+ 
+[ Sat Oct  8 20:05:41 2016 ]=>  🔙🔛 🔜 [113566842] requested SuperGroup ID
+ 
+[ Sat Oct  8 20:12:53 2016 ]=>  🔙🔛_🔜 [113566842] used pm help
+ 
+[ Sat Oct  8 20:23:50 2016 ]=>  🔙🔛 🔜 [113566842] locked Forward Msg 
+ 
+[ Sat Oct  8 20:24:40 2016 ]=>  🔙🔛 🔜 [113566842] locked Tgservice Actions
+ 
+[ Sat Oct  8 20:26:02 2016 ]=>  🔙🔛 🔜 [113566842] locked Forward Msg 
+ 
+[ Sat Oct  8 20:35:32 2016 ]=>  🔙🔛 🔜 [113566842] locked Forward Msg 
+ 
+[ Sat Oct  8 22:18:03 2016 ]=>  🔙🔛_🔜 [113566842] used /get !!tgservice chat_del_user
+ 
+[ Sat Oct  8 22:18:30 2016 ]=>  🔙🔛_🔜 [113566842] used /get !chat ربات
+ 
+[ Sat Oct  8 22:19:19 2016 ]=>  🔙🔛_🔜 [113566842] used /get Robot Answer This Word
+ 
+[ Sat Oct  8 22:19:38 2016 ]=>  🔙🔛_🔜 [113566842] used /get Robot
+ 
+[ Sat Oct  8 22:19:45 2016 ]=>  🔙🔛_🔜 [113566842] used /get Boy
+ 
+[ Sat Oct  8 22:22:49 2016 ]=>  🔙🔛_🔜 [113566842] saved [ربات] as > + بله
+ 
+[ Sat Oct  8 22:22:54 2016 ]=>  🔙🔛_🔜 [113566842] used /get ربات
+ 
+[ Sat Oct  8 22:24:29 2016 ]=>  🔙🔛_🔜 [113566842] saved [ربات] as > جان باباي 😍
+ 
+[ Sat Oct  8 22:24:34 2016 ]=>  🔙🔛_🔜 [113566842] used /get ربات
+ 
+[ Sat Oct  8 22:26:24 2016 ]=>  🔙_🔜 [257554507] used /get ربات
+ 
+[ Sat Oct  8 22:27:21 2016 ]=>  🔙🔛_🔜 [113566842] used /get ربات
+ 
+[ Sat Oct  8 22:27:27 2016 ]=>  🔙_🔜 [257554507] used /get ربات
+ 
+[ Sat Oct  8 22:28:08 2016 ]=>  🔙_🔜 [257554507] used /get !chat ربات + بله 😐
+ 
